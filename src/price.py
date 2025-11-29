@@ -7,7 +7,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import r2_score
 
 # Load dataset
-df = pd.read_csv("software_prices_large.csv")
+df = pd.read_csv("../data/software_prices_large.csv")
 
 # Encode categorical columns
 categorical_cols = ["Category", "Platform", "Subscription Type"]
