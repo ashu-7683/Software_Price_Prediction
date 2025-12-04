@@ -5,7 +5,7 @@ A machine learning project to predict software prices based on various features.
 ## Project Structure
 
 - `src/price.py` - Main training and prediction script
-- `data/software_prices_large.csv` - Dataset (not included in repo)
+- `data/software_prices_large.csv` - Dataset 
 
   
 ## 🚀 Features
@@ -28,7 +28,7 @@ The model uses the following features for prediction:
 - **Years Since Release**: Engineered feature (calculated from release year)
 
 ## 🛠️ Installation
-
+ 
 ### Prerequisites
 - Python 3.8 or higher
 - pip (Python package manager)
